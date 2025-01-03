@@ -157,7 +157,7 @@ Distributed under the [License Type] License. See `LICENSE.txt` for more informa
 ## 🙏 Acknowledgments
 
 Here is a list of some of the resources I found helpful and would like to give credit to:
-* Kevin Kiruri on Medium
+* NA
 
   **[For more details about the project »](https://sites.google.com/view/walmartsalesanalysis/home?authuser=1)**
 
